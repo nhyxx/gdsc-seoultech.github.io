@@ -83,12 +83,12 @@ seonghee:
     introduce: 안녕하세요! GDSC Seoultech  4기 디자인코어 최성희입니다. <br> 함께 성장해나갈 수 있을 앞날이 기대됩니다! 잘 부탁드립니다 😌
     blogs:
         notefolio: https://notefolio.net/huoguo_choi03
-test:
-  name: 김맹구
-  author_name: 맹구
+hyerin:
+  name: 이혜린
+  author_name: 혜린
   role: member
-  email: 123@gmail.com
-  github: maenggu
-  description: 훌쩍
-  introduce: 안녕하세요! GDSC Seoultech  4기 김맹구입니다.
+  email: leehyeoilin@gmail.com
+  github: nhyxx
+  description: 
+  introduce: 안녕하세요! 저는 GDG AI 4기 신입부원, 산업정보시스템전공 22학번 이혜린입니다. <br> 1년 동안 다같이 멋지게 성장했으면 좋겠습니다! 잘 부탁드립니다!
 
